@@ -8,4 +8,4 @@
 
 ### Ekran görüntüsü
 
-![](pokemon.gif)
+![](pokedex.gif)
