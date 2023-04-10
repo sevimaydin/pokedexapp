@@ -1,5 +1,5 @@
 # Pokemon Kartları Uygulaması
-- Bu proje, JavaScript Fetch API ve Async/Await kullanılarak oluşturulmuş bir Pokemon kartları uygulamasıdır. HTML ve CSS temelleri de kullanılarak, arayüz tasarımı yapılmıştır.
+- Bu proje, JavaScript Fetch API ve Async/Await kullanılarak oluşturulmuş bir Pokemon kartları uygulamasıdır. HTML5 ve CSS3  kullanılarak, arayüz tasarımı yapılmıştır.
 
 ### Nasıl Çalışır?
  - Kullanıcı uygulamayı açtığında, sayfa ilk önce Fetch API yardımıyla https://pokeapi.co/api/v2/pokemon/ adresine bir istek gönderir ve tüm pokemonların detaylarını içeren bir JSON dosyası alır.
